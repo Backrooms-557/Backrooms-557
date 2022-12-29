@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Backrooms-557 GitHub stats](https://github-readme-stats.vercel.app/api?username=Backrooms-557)](https://github.com/Backrooms-557/github-readme-stats)
+![Backrooms-557 GitHub stats](https://github-readme-stats.vercel.app/api?username=Backrooms-557&show_icons=true)
