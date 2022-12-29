@@ -9,5 +9,4 @@ Backrooms-557/Backrooms-557 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Backrooms-557 GitHub stats](https://github-readme-stats.vercel.app/api?username=Backrooms-557)](https://github.com/Backrooms-557/github-readme-stats)
-![Backrooms-557 GitHub stats](https://github-readme-stats.vercel.app/api?username=Backrooms-557&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Backrooms-557&show_icons=true&theme=dark)
